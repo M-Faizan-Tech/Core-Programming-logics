@@ -1,2 +1,2 @@
 # Core-Programming-logics
-A collection of core programming logic, data structures, and problem-solving concepts. Implemented in C++ with future updates planned for Python to track multi-language logic building.
+🚀 A comprehensive 35-project repository mastering C++ Fundamentals and Advanced Object-Oriented Programming (OOP) concepts.
